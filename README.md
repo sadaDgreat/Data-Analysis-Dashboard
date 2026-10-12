@@ -19,4 +19,4 @@ Dashboard Interaction -
 Excel: <a href="https://github.com/sadaDgreat/Data-Analysis-Dashboard/blob/main/NIGERIA%20E-COMMERCE%20MARKET%20INTELLIGENCE%20DASHBOARD%202022.xlsx">Nigeria E-commerce Market 2022 </a>
 Power point:<a href="https://github.com/sadaDgreat/Data-Analysis-Dashboard/blob/main/NIGERIA%20E-COMMERCE%20MARKET%20INTELLIGENCE%20DASHBOARD%202022.pptx">Niger E-commerse Market 2022</a>
 
-Dashboard: 
+Dashboard: <a href="https://github.com/sadaDgreat/Data-Analysis-Dashboard/blob/main/image-project.png">Dashboard Image</a>
